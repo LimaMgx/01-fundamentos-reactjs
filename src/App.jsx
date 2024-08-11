@@ -4,9 +4,20 @@ import { Post } from './Post'
 
 function App() {
   return (
-    <Post author="Diego Fernandes" 
-    content="Hello World"/>
+    
+    <div>
+       
+        <Post 
+          author="Diego Fernandes" 
+          content="Hello World"
+        />
+        <Post 
+          author="Almirante Peralta"
+          content="Blalalalakjhsdhdhg"
+        />
+        
       
+      </div>  
       
   )
 }
