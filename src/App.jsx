@@ -8,7 +8,7 @@ function App() {
     
     <div>
         <Header 
-        
+          
         />
         <Post 
           author="Diego Fernandes" 
