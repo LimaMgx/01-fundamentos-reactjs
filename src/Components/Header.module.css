@@ -1,8 +1,6 @@
 .header {
-    background: #333;
-    width: 71,5rem;
-    height: 6,25rem;
+    background: var(--gray-800);
     display: flex;
-    text-align: center;
     justify-content: center;
+    padding: 1.25rem 0;
 }
