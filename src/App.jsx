@@ -2,6 +2,9 @@ import { useState } from 'react'
 import { Post } from './Components/Post'
 import { Header } from './Components/Header'
 
+import styles from './Components/App.module.css';
+
+import './global.css';
 
 function App() {
   return (
