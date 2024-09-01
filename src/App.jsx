@@ -16,9 +16,8 @@ function App() {
         />
 
         <div className={styles.wrapper}>
-            <Sidebar>
+            <Sidebar/>
 
-            </Sidebar>
             <main>
                 <Post 
                   author="Diego Fernandes" 
